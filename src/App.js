@@ -1,9 +1,9 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
-import './App.css';
+import "./App.css";
 
 function App() {
-  return 
+  return;
 }
 
 export default App;
