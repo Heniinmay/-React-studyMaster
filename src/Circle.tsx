@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+//코스 실행전에 오류들을 확인 할수 있다. 코드에서,
 interface ContainerProps {
   bgColor: string;
 }
