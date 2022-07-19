@@ -6,6 +6,7 @@ import { darkTheme, lightTheme } from "./theme";
 
 ReactDOM.render(
   <>
+    {/* npm i --save-dev @types/myPackage */}
     <ThemeProvider theme={darkTheme}>
       <App />
     </ThemeProvider>
